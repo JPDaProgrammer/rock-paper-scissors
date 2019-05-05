@@ -86,16 +86,3 @@ button {
     transform: rotate(20deg)
 }
 
-#footer {
-    background-color: #0e9281b9;
-    color: #EDF5E1;
-    text-align: center;
-    font-family: fantasy;
-    font-size: 40px;
-    position: absolute;
-    bottom: 0;
-    
-    width: 100%;
-    
-    
-}
